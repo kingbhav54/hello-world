@@ -1,4 +1,4 @@
 # hello-world
-My First repository. Getting familiar with Github
+This respository is created in hopes of getting familiar with Github. 
 
 
